@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501254500234",
+    "firebase_url": "https://collisiondetection-6e057.firebaseio.com",
+    "project_id": "collisiondetection-6e057",
+    "storage_bucket": "collisiondetection-6e057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501254500234:android:8af1562fb8b2daed",
+        "android_client_info": {
+          "package_name": "com.techmantra.collisiondetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501254500234-phmi4j323ol19j0sf9t8bdntsd1fmfsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techmantra.collisiondetection",
+            "certificate_hash": "fc0e91664cb053fa9deb688424c10e8987e7d840"
+          }
+        },
+        {
+          "client_id": "501254500234-n17a1q36sdpjl4l5o2bd0jfevn2krp2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAya3h_g8GQDJaVT-ljtG0GZ5tERlzSzSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501254500234-n17a1q36sdpjl4l5o2bd0jfevn2krp2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
