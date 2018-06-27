@@ -17,4 +17,5 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="SmartTrafficLight">Smart Traffic Light</string>
     <string name="CollisionDetection">CollisionDetection</string>
+    <string name="Menu">Menu</string>
 </resources>
